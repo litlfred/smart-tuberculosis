@@ -1,0 +1,20 @@
+{
+  "publisher": "WHO",
+  "publisherUrl": "http://who.int",
+  "packageId": "who.fhir.smart-ig-empty",
+  "version": "0.1.0",
+  "fhirVersion": "4.3.0",
+  "fhirUrl": "http://hl7.org/fhir/R4B/",
+  "copyrightYear": "2023+",
+  "generated": "2026-11-10",
+  "links": [
+    {
+      "label": "Table of Contents",
+      "href": "toc.html"
+    },
+    {
+      "label": "QA Report",
+      "href": "qa.html"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "folio-site-build/v1",
+  "instance": "smart-tuberculosis",
+  "platform": {
+    "commit": "a6753f2fda6b5b67e00bec86a7e09506f86af327"
+  },
+  "source": {
+    "repo": "litlfred/smart-tuberculosis",
+    "ref": "main",
+    "commit": "b13cc7aeac08f637c95052a32ff1aa0001159a75"
+  },
+  "builtAt": "2026-11-10T20:17:42.795Z",
+  "ast": {
+    "commit": "f4dd9a98a44b73a847fe79cfa6495deda0411f7f",
+    "verdict": "valid",
+    "kind": "full"
+  }
+}
