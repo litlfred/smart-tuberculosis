@@ -1,0 +1,69 @@
+{
+  "$schema": "folio-fhir-artifact-index/v2",
+  "id": "smart-tuberculosis",
+  "title": "who.fhir.smart-ig-empty — artefact index (from the IG Publisher AST cache)",
+  "packageId": "who.fhir.smart-ig-empty",
+  "version": "0.1.0",
+  "canonicalBase": "http://worldhealthorganization.github.io/smart",
+  "source": {
+    "kind": "output",
+    "of": ".",
+    "revision": "00541e80f5d1c69c29c362415677c8af57fff92f",
+    "readAt": "2026-11-10"
+  },
+  "provenance": {},
+  "sidecarApi": "unknown",
+  "count": 1,
+  "artifacts": [
+    {
+      "key": "ImplementationGuide/who.fhir.smart-ig-empty",
+      "resourceType": "ImplementationGuide",
+      "id": "who.fhir.smart-ig-empty",
+      "name": "SMART",
+      "title": "SMART Empty IG",
+      "description": "An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides",
+      "canonical": "http://worldhealthorganization.github.io/smart/ImplementationGuide/who.fhir.smart-ig-empty",
+      "version": "0.1.0",
+      "profiles": [
+        "SMARTImplementationGuide"
+      ],
+      "published": {},
+      "materialization": {
+        "state": "materialized",
+        "provenance": {
+          "local": "fsh-generated/resources/ImplementationGuide-who.fhir.smart-ig-empty.json"
+        },
+        "localPath": "resources/ImplementationGuide/who.fhir.smart-ig-empty.json",
+        "gates": {
+          "size": {
+            "verdict": "unknown",
+            "basis": "ig-ast validity does not measure the AST's size"
+          },
+          "restrictions": {
+            "verdict": "unknown",
+            "basis": "derived from the IG's own source; inherits its terms, not assessed here"
+          },
+          "retention": {
+            "verdict": "permitted",
+            "basis": "a compiled cache, regenerable from its inputs by a full IG Publisher run"
+          },
+          "sourceLoss": {
+            "verdict": "unknown",
+            "basis": "a compiled copy is derived, not the source; it cannot stand in for it"
+          },
+          "copyright": {
+            "verdict": "unknown",
+            "basis": "derived from the IG's own source; inherits its terms, not assessed here"
+          }
+        },
+        "purpose": "compiled",
+        "inputs": {
+          "toolchain": "ig-publisher 3.0.0 / core 7.0.1",
+          "sourceRevision": "00541e80f5d1c69c29c362415677c8af57fff92f",
+          "inputDigest": "a06705fdb1af6bc68245429d4a6b5d902b3dab119cc8285f5782ec3f6b8f1dc6"
+        },
+        "materializedAt": "2026-11-10T22:52:46.389588031Z"
+      }
+    }
+  ]
+}

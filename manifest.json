@@ -7,7 +7,7 @@
     "versions"
   ],
   "provisionalUntil": "a full IG Publisher run",
-  "generatedAt": "2026-11-10T19:28:26.453700323Z",
+  "generatedAt": "2026-11-10T22:52:46.389588031Z",
   "ig": {
     "root": ".",
     "version": "4.3.0"
@@ -17,7 +17,7 @@
   },
   "inputs": {
     "toolchain": "ig-publisher 3.0.0 / core 7.0.1",
-    "sourceRevision": "f4dd9a98a44b73a847fe79cfa6495deda0411f7f",
+    "sourceRevision": "00541e80f5d1c69c29c362415677c8af57fff92f",
     "inputDigest": "a06705fdb1af6bc68245429d4a6b5d902b3dab119cc8285f5782ec3f6b8f1dc6"
   },
   "packages": [
@@ -259,7 +259,7 @@
       "resourceType": "ImplementationGuide",
       "id": "who.fhir.smart-ig-empty",
       "name": "SMART",
-      "file": "resources/ImplementationGuide/who.fhir.smart-ig-empty--f9bafd70.json",
+      "file": "resources/ImplementationGuide/who.fhir.smart-ig-empty.json",
       "source": "fsh-generated/resources/ImplementationGuide-who.fhir.smart-ig-empty.json"
     }
   ]
