@@ -21,6 +21,7 @@
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/who.fhir.smart-ig-empty",
       "dcterms:title": "SMART Empty IG",
+      "schema:name": "SMART",
       "dcterms:description": "An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides",
       "schema:sameAs": {
         "@id": "http://worldhealthorganization.github.io/smart/ImplementationGuide/who.fhir.smart-ig-empty"
