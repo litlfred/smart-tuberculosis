@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "fhir": "http://hl7.org/fhir/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "$schema": "folio-ig-artifact-index-jsonld/v1",
+  "@id": "index.jsonld",
+  "@type": "fhir:ImplementationGuide",
+  "dcterms:identifier": "who.fhir.smart-ig-empty",
+  "schema:version": "0.1.0",
+  "schema:sameAs": {
+    "@id": "http://worldhealthorganization.github.io/smart"
+  },
+  "dcterms:title": "SMART Empty IG",
+  "schema:numberOfItems": 1,
+  "schema:hasPart": [
+    {
+      "@id": "ImplementationGuide-who.fhir.smart-ig-empty.jsonld",
+      "@type": "fhir:ImplementationGuide",
+      "dcterms:identifier": "ImplementationGuide/who.fhir.smart-ig-empty",
+      "dcterms:title": "SMART Empty IG",
+      "dcterms:description": "An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides",
+      "schema:sameAs": {
+        "@id": "http://worldhealthorganization.github.io/smart/ImplementationGuide/who.fhir.smart-ig-empty"
+      }
+    }
+  ]
+}

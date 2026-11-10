@@ -1,0 +1,15 @@
+{
+  "branch": "claude/publish-link-mounts",
+  "sha": "2fa194e",
+  "built": "2026-11-10T20:03:31Z",
+  "pr": "3",
+  "prUrl": "https://github.com/litlfred/smart-tuberculosis/pull/3",
+  "branchUrl": "https://github.com/litlfred/smart-tuberculosis/tree/claude/publish-link-mounts",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-tuberculosis/commit/2fa194eba9b98c3dc0ae76fe33f169bb32a6ead0",
+  "mainSite": "https://litlfred.github.io/smart-tuberculosis/",
+  "beforeRef": "main",
+  "mainPagesKnown": false,
+  "newPages": []
+}
