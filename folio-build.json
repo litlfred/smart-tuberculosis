@@ -7,9 +7,9 @@
   "source": {
     "repo": "litlfred/smart-tuberculosis",
     "ref": "main",
-    "commit": "00541e80f5d1c69c29c362415677c8af57fff92f"
+    "commit": "6ad7b227f116109bd301da9a1fbafc16a626e86e"
   },
-  "builtAt": "2026-11-10T22:57:58.132Z",
+  "builtAt": "2026-11-10T23:40:05.173Z",
   "ast": {
     "commit": "00541e80f5d1c69c29c362415677c8af57fff92f",
     "verdict": "valid",

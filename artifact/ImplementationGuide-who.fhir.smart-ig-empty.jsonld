@@ -21,10 +21,18 @@
     {
       "@type": "schema:MediaObject",
       "schema:contentUrl": {
-        "@id": "https://raw.githubusercontent.com/litlfred/smart-tuberculosis/134b5d24455193d36ddd4baa9e5a5ff95d334f77/resources/ImplementationGuide/who.fhir.smart-ig-empty.json"
+        "@id": "../ImplementationGuide-who.fhir.smart-ig-empty.json"
       },
       "schema:encodingFormat": "application/fhir+json",
       "dcterms:source": "local"
+    },
+    {
+      "@type": "schema:MediaObject",
+      "schema:contentUrl": {
+        "@id": "https://raw.githubusercontent.com/litlfred/smart-tuberculosis/134b5d24455193d36ddd4baa9e5a5ff95d334f77/resources/ImplementationGuide/who.fhir.smart-ig-empty.json"
+      },
+      "schema:encodingFormat": "application/fhir+json",
+      "dcterms:source": "mirror"
     }
   ],
   "prov:wasGeneratedBy": {
