@@ -17,7 +17,7 @@
   "schema:numberOfItems": 1,
   "schema:hasPart": [
     {
-      "@id": "ImplementationGuide-who.fhir.smart-ig-empty.jsonld",
+      "@id": "ImplementationGuide-who.fhir.smart-ig-empty",
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/who.fhir.smart-ig-empty",
       "dcterms:title": "SMART Empty IG",
